@@ -1,0 +1,33 @@
+DISCHARGE SUMMARY
+==========================================
+ABC Medical Center
+123 Health Ave, Springfield, IL 62701
+
+PATIENT INFORMATION
+-------------------
+Patient Name: Jane Doe
+Date of Birth: 06/22/1985
+Gender: Female
+MRN: MRN98765
+Insurance ID: AETNA567890
+Phone: 312-555-7890
+Address: 456 Oak Street, Chicago, IL
+
+ENCOUNTER DETAILS
+-----------------
+Admission Date: 03/08/2024
+Discharge Date: 03/12/2024
+Encounter Date: 03/10/2024
+Encounter Type: Inpatient
+Provider: Dr. Michael Chen
+Facility: ABC Medical Center
+
+Chief Complaint: Chest pain and shortness of breath
+
+ASSESSMENT:
+Patient presented with acute chest pain. Cardiac workup completed. 
+EKG showed normal sinus rhythm. Troponin negative x2. 
+Patient stabilized and discharged on aspirin therapy.
+
+Plan: Follow-up with cardiology in 2 weeks.
+==========================================

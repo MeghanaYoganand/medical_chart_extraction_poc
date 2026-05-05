@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClinicalDocument xmlns="urn:hl7-org:v3">
+  <id root="2.16.840.1.113883.19.5" extension="12345"/>
+  <code code="34133-9" displayName="Continuity of Care Document"/>
+  <title>Continuity of Care Document</title>
+  <effectiveTime value="20240310"/>
+  <recordTarget>
+    <patientRole>
+      <id extension="MRN54321" root="2.16.840.1.113883.19.5"/>
+      <addr>
+        <city>Chicago</city>
+        <state>IL</state>
+      </addr>
+      <telecom value="tel:312-555-1234"/>
+      <patient>
+        <name>
+          <given>Robert</given>
+          <family>Johnson</family>
+        </name>
+        <administrativeGenderCode code="M" displayName="Male"/>
+        <birthTime value="19700315"/>
+      </patient>
+    </patientRole>
+  </recordTarget>
+  <component>
+    <structuredBody>
+      <component>
+        <section>
+          <title>Encounters</title>
+          <text>
+            Visit Date: 03/10/2024
+            Provider: Dr. Emily Watson
+            Facility: Central Health Clinic
+            Reason for Visit: Annual wellness exam
+            Encounter Type: Outpatient
+          </text>
+        </section>
+      </component>
+    </structuredBody>
+  </component>
+</ClinicalDocument>
